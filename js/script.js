@@ -81,4 +81,3 @@ const personalMovieDB = {
 
 
 
-showMyDB(personalMovieDB.private)
